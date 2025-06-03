@@ -55,3 +55,9 @@ As palavras ‘mulher’ e ‘problema’ estão entre umas das mais comentadas 
 As palavras ‘mulher’ e ‘merda’ estão entre umas das mais comentadas no r/relacionamentos.
 
 att.: No dia 08/05/2025 um adolescente de 14 anos mata sua colega de turma da mesma idade com golpes de tesoura no pescoço, um outro adolescente foi preso por suposto envolvimento.
+
+![barchart num_atentados](https://github.com/user-attachments/assets/a9e76063-4454-40d2-bed7-ad4cb38f8fa2)
+
+![barchart relacionamentos](https://github.com/user-attachments/assets/b58af408-4b44-4cee-94a0-51ecc4cccddd)
+
+![barchart videogamesbrasil](https://github.com/user-attachments/assets/99047ebb-908a-47b5-880f-52f4c2b6c760)
